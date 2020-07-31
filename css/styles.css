@@ -5,9 +5,7 @@ body{
   background-color: #ff4c68;
   color:#fff;
 }
-#features{
-  margin: 5% auto;
-}
+
 
 
 .container-fluid{
@@ -24,12 +22,12 @@ h1 {
    font-family: "Montserrat";
    font-size: 1.5rem;
    font-weight: bold;
-   text-align: center;
+
    }
+
  p{
    color:#8f8f8f;
-   text-align: center;
-   font-size: 1rem;
+
  }
 
 
@@ -64,13 +62,17 @@ h1 {
 
 /*section features*/
 .feature-container{
-padding: 5% 15%;
+padding: 7% 15%;
 
 }
+.feature-box{
+text-align: center;
+}
+
+
 .fontawesome{
-  font-size: 3rem;
-  color: #ef8172;
-  margin: 0 40%;
+    color: #ef8172;
+    margin-bottom: 1rem;
 }
 .fontawesome:hover{
   color:#ff4c68;
