@@ -5,6 +5,10 @@ body{
   background-color: #ff4c68;
   color:#fff;
 }
+#features{
+  margin: 5% auto;
+}
+
 
 .container-fluid{
   padding: 3% 15%;
